@@ -1,0 +1,27 @@
+.container {
+    background-color: #ffffff;  
+    border-radius: 15px;        
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1); 
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+
+.mage{
+     background-color: #fff;
+    height: 200px;
+    width: 200px;
+    border-width: 3px;
+    border-style:bold;
+    border-color: #000;
+    border-radius: 50px;
+}
+.edit{
+    padding-left: 10px;
+    margin-bottom: 0px;
+
+}
+
+.card {
+    align-items: center;   
+}
