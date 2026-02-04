@@ -40,6 +40,7 @@ body{
    color: white;
    text-align: center;
    border-radius: 5px;
+    text-decoration: none;
 
 
 }
@@ -50,4 +51,5 @@ body{
 .link{
     color: blue;
     text-decoration: noneS;
+
 }
